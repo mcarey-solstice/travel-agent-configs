@@ -1,0 +1,3 @@
+---
+username: nonprod
+password: (( vault "secret/nonprod:password" ))

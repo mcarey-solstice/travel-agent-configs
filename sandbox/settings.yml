@@ -1,0 +1,3 @@
+---
+username: sandbox
+password: (( vault "secret/sandbox:username" ))
